@@ -1,0 +1,2 @@
+# mailapp
+### a Sails application
